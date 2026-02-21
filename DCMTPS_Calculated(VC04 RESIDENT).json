@@ -1,0 +1,1694 @@
+[
+  {
+    "tag": "(0008,0005)",
+    "keyword": "SpecificCharacterSet",
+    "name": "Specific Character Set",
+    "vr": "CS",
+    "value": "ISO_IR 100"
+  },
+  {
+    "tag": "(0008,0008)",
+    "keyword": "ImageType",
+    "name": "Image Type",
+    "vr": "CS",
+    "value": "['ORIGINAL', 'PRIMARY', 'DOSE']"
+  },
+  {
+    "tag": "(0008,0012)",
+    "keyword": "InstanceCreationDate",
+    "name": "Instance Creation Date",
+    "vr": "DA",
+    "value": "20260219"
+  },
+  {
+    "tag": "(0008,0013)",
+    "keyword": "InstanceCreationTime",
+    "name": "Instance Creation Time",
+    "vr": "TM",
+    "value": "204134"
+  },
+  {
+    "tag": "(0008,0016)",
+    "keyword": "SOPClassUID",
+    "name": "SOP Class UID",
+    "vr": "UI",
+    "value": "1.2.840.10008.5.1.4.1.1.481.2"
+  },
+  {
+    "tag": "(0008,0018)",
+    "keyword": "SOPInstanceUID",
+    "name": "SOP Instance UID",
+    "vr": "UI",
+    "value": "1.3.6.1.4.1.2452.6.340338333.1266141038.4258741673.1065990839"
+  },
+  {
+    "tag": "(0008,0020)",
+    "keyword": "StudyDate",
+    "name": "Study Date",
+    "vr": "DA",
+    "value": ""
+  },
+  {
+    "tag": "(0008,0023)",
+    "keyword": "ContentDate",
+    "name": "Content Date",
+    "vr": "DA",
+    "value": "20260219"
+  },
+  {
+    "tag": "(0008,0030)",
+    "keyword": "StudyTime",
+    "name": "Study Time",
+    "vr": "TM",
+    "value": ""
+  },
+  {
+    "tag": "(0008,0033)",
+    "keyword": "ContentTime",
+    "name": "Content Time",
+    "vr": "TM",
+    "value": "204134"
+  },
+  {
+    "tag": "(0008,0050)",
+    "keyword": "AccessionNumber",
+    "name": "Accession Number",
+    "vr": "SH",
+    "value": ""
+  },
+  {
+    "tag": "(0008,0060)",
+    "keyword": "Modality",
+    "name": "Modality",
+    "vr": "CS",
+    "value": "RTDOSE"
+  },
+  {
+    "tag": "(0008,0070)",
+    "keyword": "Manufacturer",
+    "name": "Manufacturer",
+    "vr": "LO",
+    "value": "Nucletron"
+  },
+  {
+    "tag": "(0008,0090)",
+    "keyword": "ReferringPhysicianName",
+    "name": "Referring Physician's Name",
+    "vr": "PN",
+    "value": ""
+  },
+  {
+    "tag": "(0008,0201)",
+    "keyword": "TimezoneOffsetFromUTC",
+    "name": "Timezone Offset From UTC",
+    "vr": "SH",
+    "value": "-0500"
+  },
+  {
+    "tag": "(0008,1010)",
+    "keyword": "StationName",
+    "name": "Station Name",
+    "vr": "SH",
+    "value": "ONCENTRA"
+  },
+  {
+    "tag": "(0008,103E)",
+    "keyword": "SeriesDescription",
+    "name": "Series Description",
+    "vr": "LO",
+    "value": "Dose for VC D3.0 L2.5"
+  },
+  {
+    "tag": "(0008,1040)",
+    "keyword": "InstitutionalDepartmentName",
+    "name": "Institutional Department Name",
+    "vr": "LO",
+    "value": "Cooper Radiation Oncology"
+  },
+  {
+    "tag": "(0008,1090)",
+    "keyword": "ManufacturerModelName",
+    "name": "Manufacturer's Model Name",
+    "vr": "LO",
+    "value": "Oncentra"
+  },
+  {
+    "tag": "(0010,0010)",
+    "keyword": "PatientName",
+    "name": "Patient's Name",
+    "vr": "PN",
+    "value": "VC04^Resident^^^"
+  },
+  {
+    "tag": "(0010,0020)",
+    "keyword": "PatientID",
+    "name": "Patient ID",
+    "vr": "LO",
+    "value": "VC004"
+  },
+  {
+    "tag": "(0010,0030)",
+    "keyword": "PatientBirthDate",
+    "name": "Patient's Birth Date",
+    "vr": "DA",
+    "value": "19571012"
+  },
+  {
+    "tag": "(0010,0040)",
+    "keyword": "PatientSex",
+    "name": "Patient's Sex",
+    "vr": "CS",
+    "value": "F"
+  },
+  {
+    "tag": "(0018,0050)",
+    "keyword": "SliceThickness",
+    "name": "Slice Thickness",
+    "vr": "DS",
+    "value": "0"
+  },
+  {
+    "tag": "(0018,1020)",
+    "keyword": "SoftwareVersions",
+    "name": "Software Versions",
+    "vr": "LO",
+    "value": "OTP V4.6.3.12"
+  },
+  {
+    "tag": "(0020,000D)",
+    "keyword": "StudyInstanceUID",
+    "name": "Study Instance UID",
+    "vr": "UI",
+    "value": "1.3.6.1.4.1.2452.6.2823017230.1119633294.2112321935.3294834788"
+  },
+  {
+    "tag": "(0020,000E)",
+    "keyword": "SeriesInstanceUID",
+    "name": "Series Instance UID",
+    "vr": "UI",
+    "value": "1.3.6.1.4.1.2452.6.165955665.1111343371.1196268976.1795640047"
+  },
+  {
+    "tag": "(0020,0010)",
+    "keyword": "StudyID",
+    "name": "Study ID",
+    "vr": "SH",
+    "value": ""
+  },
+  {
+    "tag": "(0020,0011)",
+    "keyword": "SeriesNumber",
+    "name": "Series Number",
+    "vr": "IS",
+    "value": "1"
+  },
+  {
+    "tag": "(0020,0052)",
+    "keyword": "FrameOfReferenceUID",
+    "name": "Frame of Reference UID",
+    "vr": "UI",
+    "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+  },
+  {
+    "tag": "(0020,1040)",
+    "keyword": "PositionReferenceIndicator",
+    "name": "Position Reference Indicator",
+    "vr": "LO",
+    "value": ""
+  },
+  {
+    "tag": "(3004,0002)",
+    "keyword": "DoseUnits",
+    "name": "Dose Units",
+    "vr": "CS",
+    "value": "GY"
+  },
+  {
+    "tag": "(3004,0004)",
+    "keyword": "DoseType",
+    "name": "Dose Type",
+    "vr": "CS",
+    "value": "PHYSICAL"
+  },
+  {
+    "tag": "(3004,0006)",
+    "keyword": "DoseComment",
+    "name": "Dose Comment",
+    "vr": "LO",
+    "value": ""
+  },
+  {
+    "tag": "(3004,000A)",
+    "keyword": "DoseSummationType",
+    "name": "Dose Summation Type",
+    "vr": "CS",
+    "value": "PLAN"
+  },
+  {
+    "tag": "(3004,0010)",
+    "keyword": "RTDoseROISequence",
+    "name": "RT Dose ROI Sequence",
+    "vr": "SQ",
+    "value": [
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "5.973904"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "1"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "1"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "1"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "5.909437"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "2"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "1"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "2"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "6.124931"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "3"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "1"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "3"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "6.185531"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "4"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "1"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "4"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "5.806198"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "5"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "1"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "5"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "3.707741"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "6"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "2"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "1"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "3.740487"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "7"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "2"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "2"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "3.886174"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "8"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "2"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "3"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "3.858917"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "9"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "2"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "4"
+        }
+      ],
+      [
+        {
+          "tag": "(3004,0002)",
+          "keyword": "DoseUnits",
+          "name": "Dose Units",
+          "vr": "CS",
+          "value": "GY"
+        },
+        {
+          "tag": "(3004,0012)",
+          "keyword": "DoseValue",
+          "name": "Dose Value",
+          "vr": "DS",
+          "value": "3.612189"
+        },
+        {
+          "tag": "(3005,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "MDS NORDION CALCULATION"
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "10"
+        },
+        {
+          "tag": "(300B,0010)",
+          "keyword": "",
+          "name": "",
+          "vr": "LO",
+          "value": "NUCLETRON"
+        },
+        {
+          "tag": "(300B,1000)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "2"
+        },
+        {
+          "tag": "(300B,1001)",
+          "keyword": "",
+          "name": "",
+          "vr": "IS",
+          "value": "5"
+        }
+      ]
+    ]
+  },
+  {
+    "tag": "(3004,0014)",
+    "keyword": "TissueHeterogeneityCorrection",
+    "name": "Tissue Heterogeneity Correction",
+    "vr": "CS",
+    "value": "WATER"
+  },
+  {
+    "tag": "(3005,0010)",
+    "keyword": "",
+    "name": "",
+    "vr": "LO",
+    "value": "MDS NORDION CALCULATION"
+  },
+  {
+    "tag": "(3005,1016)",
+    "keyword": "",
+    "name": "",
+    "vr": "DS",
+    "value": "[-647.44, -587.07]"
+  },
+  {
+    "tag": "(3006,0002)",
+    "keyword": "StructureSetLabel",
+    "name": "Structure Set Label",
+    "vr": "SH",
+    "value": "PlanDosePoints"
+  },
+  {
+    "tag": "(3006,0004)",
+    "keyword": "StructureSetName",
+    "name": "Structure Set Name",
+    "vr": "LO",
+    "value": "PlanDosePoints"
+  },
+  {
+    "tag": "(3006,0008)",
+    "keyword": "StructureSetDate",
+    "name": "Structure Set Date",
+    "vr": "DA",
+    "value": "20260219"
+  },
+  {
+    "tag": "(3006,0009)",
+    "keyword": "StructureSetTime",
+    "name": "Structure Set Time",
+    "vr": "TM",
+    "value": "204134"
+  },
+  {
+    "tag": "(3006,0020)",
+    "keyword": "StructureSetROISequence",
+    "name": "Structure Set ROI Sequence",
+    "vr": "SQ",
+    "value": [
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "1"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "2"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "3"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "4"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "5"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "6"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "7"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "8"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "9"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,0022)",
+          "keyword": "ROINumber",
+          "name": "ROI Number",
+          "vr": "IS",
+          "value": "10"
+        },
+        {
+          "tag": "(3006,0024)",
+          "keyword": "ReferencedFrameOfReferenceUID",
+          "name": "Referenced Frame of Reference UID",
+          "vr": "UI",
+          "value": "2.16.840.1.113618.1.5.306841413809174816367512134092094136423"
+        },
+        {
+          "tag": "(3006,0026)",
+          "keyword": "ROIName",
+          "name": "ROI Name",
+          "vr": "LO",
+          "value": "-"
+        },
+        {
+          "tag": "(3006,0036)",
+          "keyword": "ROIGenerationAlgorithm",
+          "name": "ROI Generation Algorithm",
+          "vr": "CS",
+          "value": "AUTOMATIC"
+        },
+        {
+          "tag": "(3006,0038)",
+          "keyword": "ROIGenerationDescription",
+          "name": "ROI Generation Description",
+          "vr": "LO",
+          "value": "POINT_SET_Axis"
+        }
+      ]
+    ]
+  },
+  {
+    "tag": "(3006,0039)",
+    "keyword": "ROIContourSequence",
+    "name": "ROI Contour Sequence",
+    "vr": "SQ",
+    "value": [
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-31.148212, 106.340656, -587.126844]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "1"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-30.096057, 106.088608, -592.109759]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "2"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-30.043848, 105.836269, -597.103114]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "3"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-29.991639, 105.583929, -602.096470]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "4"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-29.939429, 105.331590, -607.089825]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "5"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-26.148485, 106.342113, -587.074642]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "6"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-25.096330, 106.090065, -592.057557]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "7"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-25.044121, 105.837725, -597.050912]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "8"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-24.991911, 105.585386, -602.044268]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "9"
+        }
+      ],
+      [
+        {
+          "tag": "(3006,002A)",
+          "keyword": "ROIDisplayColor",
+          "name": "ROI Display Color",
+          "vr": "IS",
+          "value": "[0, 0, 255]"
+        },
+        {
+          "tag": "(3006,0040)",
+          "keyword": "ContourSequence",
+          "name": "Contour Sequence",
+          "vr": "SQ",
+          "value": [
+            [
+              {
+                "tag": "(3006,0042)",
+                "keyword": "ContourGeometricType",
+                "name": "Contour Geometric Type",
+                "vr": "CS",
+                "value": "POINT"
+              },
+              {
+                "tag": "(3006,0046)",
+                "keyword": "NumberOfContourPoints",
+                "name": "Number of Contour Points",
+                "vr": "IS",
+                "value": "1"
+              },
+              {
+                "tag": "(3006,0050)",
+                "keyword": "ContourData",
+                "name": "Contour Data",
+                "vr": "DS",
+                "value": "[-24.939702, 105.333046, -607.037623]"
+              }
+            ]
+          ]
+        },
+        {
+          "tag": "(3006,0084)",
+          "keyword": "ReferencedROINumber",
+          "name": "Referenced ROI Number",
+          "vr": "IS",
+          "value": "10"
+        }
+      ]
+    ]
+  },
+  {
+    "tag": "(300C,0002)",
+    "keyword": "ReferencedRTPlanSequence",
+    "name": "Referenced RT Plan Sequence",
+    "vr": "SQ",
+    "value": [
+      [
+        {
+          "tag": "(0008,1150)",
+          "keyword": "ReferencedSOPClassUID",
+          "name": "Referenced SOP Class UID",
+          "vr": "UI",
+          "value": "1.2.840.10008.5.1.4.1.1.481.5"
+        },
+        {
+          "tag": "(0008,1155)",
+          "keyword": "ReferencedSOPInstanceUID",
+          "name": "Referenced SOP Instance UID",
+          "vr": "UI",
+          "value": "1.3.6.1.4.1.2452.6.2842543894.1313122320.560499639.637827553"
+        }
+      ]
+    ]
+  }
+]
